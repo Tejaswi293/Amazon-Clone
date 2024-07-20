@@ -1,2 +1,2 @@
 # Amazon-Clone
-This a clone of Amazon Website using frontend Technology (HTML,CSS,JS)
+This a clone of Amazon Website using frontend Technology (HTML & CSS)
